@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Sumair
 
-🎓 BCA graduate | 🧠 Lifelong learner | 💻 Aspiring Full Stack Developer
+🧠 Lifelong learner | 💻 Aspiring Full Stack Developer
 
 I'm a self-taught developer passionate about web technologies and product-driven development. With hands-on experience building and maintaining an ecommerce WordPress website using WooCommerce and Gutenberg, I've worked on everything from plugin integrations and inventory maintenance to performance optimization.
 
